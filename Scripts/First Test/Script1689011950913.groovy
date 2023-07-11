@@ -23,9 +23,11 @@ WebUI.navigateToUrl('https://v3-test-11.screenpal.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In'))
 
+WebUI.navigateToUrl('https://v3-test-9.screenpal.com/')
+
 WebUI.click(findTestObject('Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In'))
 
-WebUI.navigateToUrl('https://v3-test-7.screenpal.com/')
+WebUI.navigateToUrl('https://v3-test-8.screenpal.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In'))
 
