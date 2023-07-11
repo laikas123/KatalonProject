@@ -25,6 +25,8 @@ WebUI.click(findTestObject('Object Repository/Page_ScreenPal (Formerly Screencas
 
 WebUI.navigateToUrl('https://v3-test-9.screenpal.com/')
 
+WebUI.navigateToUrl('https://v3-test-8.screenpal.com/')
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email'), 
     0)
 
