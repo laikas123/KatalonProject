@@ -40,7 +40,5 @@ WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Videos - selenium
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/a_Sign Out'))
 
-WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/a_Sign Out'))
-
 WebUI.closeBrowser()
 
