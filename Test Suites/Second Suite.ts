@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>First Suite</name>
+   <name>Second Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>47f9907f-e281-45ad-b907-32b3a18e043e</testSuiteGuid>
+   <testSuiteGuid>6c8475e7-f6eb-49df-8247-af3848846add</testSuiteGuid>
    <testCaseLink>
-      <guid>79407637-5a03-4564-b140-f515e1a2d29b</guid>
+      <guid>96d19946-1d62-4343-a5c9-a3e103b8a732</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Test Div Error</testCaseId>
