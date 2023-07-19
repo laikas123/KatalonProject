@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>82b5188a-2b5d-4da6-8394-530e86f276ba</webElementGuid>
+      <webElementGuid>fc80cc00-07ef-4589-9aea-548b48fc97c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>g-recaptcha btn btn-primary mt-4 w-100</value>
-      <webElementGuid>795c5f59-ad93-4d4c-a433-952ee65b0dd3</webElementGuid>
+      <webElementGuid>d357ab15-494c-4df7-9870-4e2b5e9b87bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>40ea0965-faad-4a32-b75b-c7d30b443166</webElementGuid>
+      <webElementGuid>3badf9a0-58ad-4861-90d1-ae31541676a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-callback</name>
       <type>Main</type>
       <value>onSubmitlogin</value>
-      <webElementGuid>d0be3f91-9acd-4f95-89ab-4f83159dfc66</webElementGuid>
+      <webElementGuid>abf97f4d-02fa-4bf9-b6ce-e663ab645d75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-sitekey</name>
       <type>Main</type>
       <value>6Leg-zIbAAAAAJ3RDyp9ZW5JCjU1GkRWD9x4mzxW</value>
-      <webElementGuid>2de11061-b972-4cc1-a205-92d5557455b6</webElementGuid>
+      <webElementGuid>be0b7342-c179-432d-b0ad-bff97c1da7e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>d7be52a5-e47f-4d51-a801-a1dd25f2aec3</webElementGuid>
+      <webElementGuid>ff7f5d7a-56cd-4deb-88ed-fff1739413cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login&quot;)/button[@class=&quot;g-recaptcha btn btn-primary mt-4 w-100&quot;]</value>
-      <webElementGuid>9fb2eff1-0f13-4620-9a2d-9c2cee807ac1</webElementGuid>
+      <webElementGuid>d7163899-6866-4806-8f00-1cdef8e93a1e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='login']/button</value>
-      <webElementGuid>9c61df30-6b6a-4001-beea-7749962c3f6f</webElementGuid>
+      <webElementGuid>bdd79d5d-133a-4fe0-83f8-6777fab4dc2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
-      <webElementGuid>ac940997-0a4c-4d41-9222-bc673b444045</webElementGuid>
+      <webElementGuid>62f05745-dbfc-4e85-b871-786acef3c0ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome Back!'])[2]/following::button[1]</value>
-      <webElementGuid>1033b0c0-3f59-403a-afc1-e5dcd1a0570f</webElementGuid>
+      <webElementGuid>ff8304ca-52dc-46ed-a511-ce947c6d2e8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/preceding::button[1]</value>
-      <webElementGuid>0ee87d36-951e-428c-9a64-a975412d42af</webElementGuid>
+      <webElementGuid>8ac20526-6a19-4c20-bd37-651ca88649dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>5a53f7f4-68ab-40cf-9438-391fec258c21</webElementGuid>
+      <webElementGuid>b817ece7-181c-4f39-b87d-62fd901ed727</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Continue' or . = 'Continue')]</value>
-      <webElementGuid>4a104dc5-a6ec-477e-bdf2-c9442f0484d9</webElementGuid>
+      <webElementGuid>d7a6164e-a25e-4020-8018-aba22f04883a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

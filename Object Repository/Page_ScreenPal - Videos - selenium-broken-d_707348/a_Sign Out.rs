@@ -6,12 +6,12 @@
    <elementGuidId>1e613ac5-410b-447e-8065-6c839e4b5a91</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@onclick=&quot;event.preventDefault(); document.getElementById('logout-form').submit();&quot;]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;event.preventDefault(); document.getElementById('logout-form').submit();&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>703eb297-92ba-47a6-9a71-dd16ddc9add6</webElementGuid>
+      <webElementGuid>d095b23e-ad83-449c-a6ca-6715bbd67f6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>f2c776c8-40a8-465f-8f3f-b44eed312d0f</webElementGuid>
+      <webElementGuid>36ccd9a4-db65-46f8-a9bc-c5865510f6ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://v3-test-11.screenpal.com/logout</value>
-      <webElementGuid>51ce428a-7fe6-4cfe-b8d5-6055a7ed9b8f</webElementGuid>
+      <webElementGuid>f1a5ed57-9131-440f-914a-663173bb3ebf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>event.preventDefault(); document.getElementById('logout-form').submit();</value>
-      <webElementGuid>632c45a4-ad4a-4208-a97b-4df57c2b57cc</webElementGuid>
+      <webElementGuid>b46aa768-2d09-4db1-9276-c4ba0a904ea4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
             
             Sign Out
         </value>
-      <webElementGuid>4be37a6d-ba6c-47ca-8126-61698abbfbe1</webElementGuid>
+      <webElementGuid>036bdb5f-5a58-4e84-8b8a-36b1b35c4ce4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;profile-dropdown&quot;)/div[@class=&quot;dropdown-main-section&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>53bc1b3d-20a4-44fb-8fad-bb75de7d8c39</webElementGuid>
+      <webElementGuid>5ab8fd28-60d4-4d11-84e8-ffa6f33b79fb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@onclick=&quot;event.preventDefault(); document.getElementById('logout-form').submit();&quot;]</value>
-      <webElementGuid>89124578-18b3-4d8a-aebd-09b6992786f4</webElementGuid>
+      <webElementGuid>40f5b744-9200-4039-af7e-92733d53ca83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='profile-dropdown']/div[2]/a[6]</value>
-      <webElementGuid>de6ff6d9-7cf3-4796-bf0d-048f4c470b13</webElementGuid>
+      <webElementGuid>75941538-43b3-4075-bada-4578c4e590ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View My Content'])[1]/preceding::a[1]</value>
-      <webElementGuid>729e4c61-b54f-4e79-8ace-74bd4296fdae</webElementGuid>
+      <webElementGuid>5c2ee546-fc4a-41fb-a7cd-fcb3a53b405f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign Out']/parent::*</value>
-      <webElementGuid>f3e0cc96-659f-48fe-a094-8bad69b7dfd3</webElementGuid>
+      <webElementGuid>10fa1a51-4999-4faa-b5c4-f6bf97adb2fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://v3-test-11.screenpal.com/logout')]</value>
-      <webElementGuid>7492afd7-acc3-4ce7-a898-34f27a2a8fe0</webElementGuid>
+      <webElementGuid>180127c3-6e45-45a7-aa94-81ae42ff8729</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[6]</value>
-      <webElementGuid>259ba9b7-27c7-40b0-816a-ec8164ad984e</webElementGuid>
+      <webElementGuid>6fda378f-f11d-440e-8d87-896adbf9da54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
             
             Sign Out
         ')]</value>
-      <webElementGuid>4bd6fd81-1a15-4ad2-b314-df67deaf6b9b</webElementGuid>
+      <webElementGuid>97354d6d-3bbf-4e76-9221-27597b323767</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

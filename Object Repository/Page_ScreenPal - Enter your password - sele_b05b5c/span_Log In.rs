@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log In</name>
+   <tag></tag>
+   <elementGuidId>e6e54ab0-be6b-4c90-8944-22bf4b442a48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='password']/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>575391a7-536f-4250-acd4-71f016a939d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log In</value>
+      <webElementGuid>30b40035-bb40-4348-9822-1f3b4bd7faf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;d-flex vh-100 overflow-hidden p-0 vw-100 login-container&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-7 col-xl-6 h-100 p-0 pb-4 m-0 overflow-auto right-panel&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center h-100 right-panel-content&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center w-75&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center pb-4 w-100&quot;]/form[@id=&quot;password&quot;]/button[@class=&quot;g-recaptcha btn btn-primary mt-4 w-100&quot;]/span[1]</value>
+      <webElementGuid>30fb4299-8a25-4101-beac-8266b2cc3fd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='password']/button/span</value>
+      <webElementGuid>7b91a0b7-f255-4078-9e15-71755c238eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
+      <webElementGuid>6500f0f2-7158-4f9c-88c7-df83bfd711eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change'])[1]/following::span[1]</value>
+      <webElementGuid>b1691f72-c6eb-47cf-860b-f7f4909fb5bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Having trouble logging in?'])[1]/preceding::span[1]</value>
+      <webElementGuid>633436e5-4d60-4e55-b02f-70898e0134fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log In']/parent::*</value>
+      <webElementGuid>ce4a2010-59d1-46cf-bea7-97e51b8f829d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>4dad5ead-8ed1-4771-9cd7-0c0d301b129c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log In' or . = 'Log In')]</value>
+      <webElementGuid>6d95836e-ecc5-4d36-9c19-88c9d97d7ac6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

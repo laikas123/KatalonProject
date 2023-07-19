@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>1a3aa6ab-cc33-4051-94e3-14175d342a83</webElementGuid>
+      <webElementGuid>ebbfb0bd-9a5c-48c6-a7ab-3adccc30600c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>profile-image-md</value>
-      <webElementGuid>0dbb15d8-37b6-4200-a37b-4e82f894f36a</webElementGuid>
+      <webElementGuid>3c203d45-caf2-4927-8cc6-f62648ab8754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://d1ka0itfguscri.cloudfront.net/user_profiles/profile_eaf4e830e389bb3214b621d9973ff32a.jpeg</value>
-      <webElementGuid>5101bfc5-32a6-4ff7-83e5-b4ed80c18e02</webElementGuid>
+      <webElementGuid>9a2d0094-c0b7-4284-a7bd-43f2965e34ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>width</name>
       <type>Main</type>
       <value>44</value>
-      <webElementGuid>899dbbd2-96e9-442a-9c6e-08805f26438d</webElementGuid>
+      <webElementGuid>ad14adc4-6385-4136-a015-2decdc9acfca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>height</name>
       <type>Main</type>
       <value>44</value>
-      <webElementGuid>70c3fbff-2f84-45f6-a785-f5eefed02a07</webElementGuid>
+      <webElementGuid>c1c49dbf-ce0d-455b-924c-a4dc309e9248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;userDropdownMenuLink&quot;)/div[@class=&quot;profile-image-md&quot;]/img[@class=&quot;profile-image-md&quot;]</value>
-      <webElementGuid>9052fd6d-3220-4fcb-a853-60951ba10f9a</webElementGuid>
+      <webElementGuid>b44df44e-d31f-4f67-b815-f476b818fd4d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='userDropdownMenuLink']/div/img</value>
-      <webElementGuid>12f739ee-a7e3-4a44-b99d-f9a6bd5b5720</webElementGuid>
+      <webElementGuid>942d5f8f-8197-44e1-8fe3-d74f26ce838b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://d1ka0itfguscri.cloudfront.net/user_profiles/profile_eaf4e830e389bb3214b621d9973ff32a.jpeg')]</value>
-      <webElementGuid>ddc314f8-90c3-4f49-8999-20ac07077c4c</webElementGuid>
+      <webElementGuid>6402313c-4583-4d8f-9202-79171d8304a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[4]/div/img</value>
-      <webElementGuid>98bd82d5-8c1a-4efc-80dc-ed18283ed96d</webElementGuid>
+      <webElementGuid>ffc23f61-c6f2-4053-a753-e212aea0b2ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://d1ka0itfguscri.cloudfront.net/user_profiles/profile_eaf4e830e389bb3214b621d9973ff32a.jpeg']</value>
-      <webElementGuid>3eb499db-d804-4b3b-b982-02ddb20976d2</webElementGuid>
+      <webElementGuid>49ada4cf-20d1-485b-b263-95db5ada1262</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
