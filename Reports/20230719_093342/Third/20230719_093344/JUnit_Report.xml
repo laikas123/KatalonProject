@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Third" time="22.331" tests="1" failures="0" errors="0">
+   <testsuite name="Third" tests="1" failures="0" errors="0" time="22.331" skipped="0" timestamp="2023-07-19 09:33:49" hostname="Logan - host.docker.internal" id="Test Suites/Third">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Logan\\git\\KatalonProject\\Reports\\20230719_093342\\Third\\20230719_093344"/>
+         <property name="logFiles" value="C:\\Users\\Logan\\git\\KatalonProject\\Reports\\20230719_093342\\Third\\20230719_093344\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Logan - host.docker.internal"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.6"/>
+         <property name="sessionId" value="51ee90ac2fd7bf36c7a6f995cb6468d5"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Login" time="21.88" classname="Test Cases/Login" status="PASSED">
+         <system-out><![CDATA[2023-07-19 09:33:50 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+2023-07-19 09:33:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-19 09:33:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-19 09:33:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-19 09:33:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-19 09:33:56 - [TEST_STEP][PASSED] - navigateToUrl("https://v3-test-11.screenpal.com/"): Navigate to 'https://v3-test-11.screenpal.com/' successfully
+
+2023-07-19 09:33:57 - [MESSAGE][PASSED] - Navigate to 'https://v3-test-11.screenpal.com/' successfully
+
+2023-07-19 09:33:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In")): Object: 'Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In' is clicked on
+
+2023-07-19 09:33:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In' is clicked on
+
+2023-07-19 09:33:59 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email")): Object 'Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email' is clickable
+
+2023-07-19 09:33:59 - [MESSAGE][PASSED] - Object 'Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email' is clickable
+
+2023-07-19 09:33:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email"), "testing@screencast-o-matic.com"): Text 'testing@screencast-o-matic.com' is set on object 'Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email'
+
+2023-07-19 09:34:00 - [MESSAGE][PASSED] - Text 'testing@screencast-o-matic.com' is set on object 'Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email'
+
+2023-07-19 09:34:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/button_Continue")): Object: 'Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/button_Continue' is clicked on
+
+2023-07-19 09:34:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/button_Continue' is clicked on
+
+2023-07-19 09:34:01 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password"), "9NLz+4tGZcQ="): Text ****** has been set on object 'Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password'
+
+2023-07-19 09:34:02 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password'
+
+2023-07-19 09:34:02 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password")): Object 'Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password' is clickable
+
+2023-07-19 09:34:02 - [MESSAGE][PASSED] - Object 'Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password' is clickable
+
+2023-07-19 09:34:02 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password"), "P9ET2sDE0SE="): Text ****** has been set on object 'Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password'
+
+2023-07-19 09:34:03 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password'
+
+2023-07-19 09:34:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/span_Log In")): Object: 'Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/span_Log In' is clicked on
+
+2023-07-19 09:34:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/span_Log In' is clicked on
+
+2023-07-19 09:34:08 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md")): Object 'Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md' is clickable
+
+2023-07-19 09:34:09 - [MESSAGE][PASSED] - Object 'Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md' is clickable
+
+2023-07-19 09:34:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md")): Object: 'Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md' is clicked on
+
+2023-07-19 09:34:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md' is clicked on
+
+2023-07-19 09:34:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/a_Sign Out")): Object: 'Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/a_Sign Out' is clicked on
+
+2023-07-19 09:34:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/a_Sign Out' is clicked on
+
+2023-07-19 09:34:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-19 09:34:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-19 09:33:49 - [TEST_SUITE][PASSED] - Third: Test Cases/Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
