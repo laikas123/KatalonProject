@@ -50,6 +50,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Page_ScreenPal - 
 WebUI.verifyElementNotClickable(findTestObject('Page_ScreenPal - Coastal Ecology - bugfix-1_5d8a14/textarea_Description_description'), 
     FailureHandling.STOP_ON_FAILURE)
 
+WebUI.verifyElementClickable(findTestObject('Page_ScreenPal - Coastal Ecology - bugfix-1_5d8a14/textarea_Description_description'), 
+    FailureHandling.STOP_ON_FAILURE)
+
 WebUI.verifyElementNotClickable(findTestObject('Page_ScreenPal - Coastal Ecology - bugfix-1_5d8a14/textarea_Description_description'), 
     FailureHandling.STOP_ON_FAILURE)
 
