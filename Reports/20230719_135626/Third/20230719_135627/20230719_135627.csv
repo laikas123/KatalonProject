@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Third,Chrome 114.0.0.0,,,2023-07-19 13:56:29,2023-07-19 13:56:47,18.113s,PASSED
+,,,,,,,
+Test Cases/Login,Chrome 114.0.0.0,,,2023-07-19 13:56:29,2023-07-19 13:56:47,17.909s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-19 13:56:30,2023-07-19 13:56:32,2.872s,PASSED
+"navigateToUrl(""https://v3-test-11.screenpal.com/"")",Chrome 114.0.0.0,,,2023-07-19 13:56:32,2023-07-19 13:56:34,1.198s,PASSED
+"click(findTestObject(""Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In""))",Chrome 114.0.0.0,,,2023-07-19 13:56:34,2023-07-19 13:56:35,1.598s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email""))",Chrome 114.0.0.0,,,2023-07-19 13:56:35,2023-07-19 13:56:36,0.438s,PASSED
+"setText(findTestObject(""Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email""), ""testing@screencast-o-matic.com"")",Chrome 114.0.0.0,,,2023-07-19 13:56:36,2023-07-19 13:56:36,0.831s,PASSED
+"click(findTestObject(""Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/button_Continue""))",Chrome 114.0.0.0,,,2023-07-19 13:56:36,2023-07-19 13:56:38,1.121s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password""), ""9NLz+4tGZcQ="")",Chrome 114.0.0.0,,,2023-07-19 13:56:38,2023-07-19 13:56:38,0.518s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password""))",Chrome 114.0.0.0,,,2023-07-19 13:56:38,2023-07-19 13:56:38,0.378s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password""), ""P9ET2sDE0SE="")",Chrome 114.0.0.0,,,2023-07-19 13:56:38,2023-07-19 13:56:39,0.471s,PASSED
+"click(findTestObject(""Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/span_Log In""))",Chrome 114.0.0.0,,,2023-07-19 13:56:39,2023-07-19 13:56:44,5.158s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md""))",Chrome 114.0.0.0,,,2023-07-19 13:56:44,2023-07-19 13:56:45,0.543s,PASSED
+"click(findTestObject(""Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md""))",Chrome 114.0.0.0,,,2023-07-19 13:56:45,2023-07-19 13:56:45,0.581s,PASSED
+"click(findTestObject(""Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/a_Sign Out""))",Chrome 114.0.0.0,,,2023-07-19 13:56:45,2023-07-19 13:56:46,1.190s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-19 13:56:46,2023-07-19 13:56:47,0.794s,PASSED

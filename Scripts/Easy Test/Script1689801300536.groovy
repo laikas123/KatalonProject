@@ -23,9 +23,11 @@ WebUI.navigateToUrl('https://v3-test-11.screenpal.com/')
 
 WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementClickable(findTestObject('Page_ScreenPal - Enter your password - sele_b05b5c/span_Log In'), 0)
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In'))
 
 WebUI.click(findTestObject('Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In'))
+
+WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email'))
 
@@ -33,22 +35,4 @@ WebUI.setText(findTestObject('Object Repository/Page_ScreenPal - Welcome Back - 
     'testing@screencast-o-matic.com')
 
 WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/button_Continue'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password'), 
-    '9NLz+4tGZcQ=')
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password'), 
-    'P9ET2sDE0SE=')
-
-WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/span_Log In'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md'))
-
-WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md'))
-
-WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/a_Sign Out'))
-
-WebUI.closeBrowser()
 
