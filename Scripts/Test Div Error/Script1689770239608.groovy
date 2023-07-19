@@ -35,6 +35,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Page_ScreenPal - 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password'), 
     'P9ET2sDE0SE=')
 
+WebUI.click(findTestObject('Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In'))
+
 WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/button_Log In'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md'))
