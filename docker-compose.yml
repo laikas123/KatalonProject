@@ -1,6 +1,6 @@
 version: "3"
 services:
   katalon:
-    image: selenium/node-chrome
+    image: katalonstudio/katalon
     
   
