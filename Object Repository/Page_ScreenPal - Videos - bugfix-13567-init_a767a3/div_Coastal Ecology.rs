@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Coastal Ecology</name>
+   <tag></tag>
+   <elementGuidId>4cf3c563-0359-429a-ae71-64b4664c343d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-title-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sc-c0ibFeUeng']/div[2]/div/a/h5/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b367180b-3da6-4bc3-ba0e-ea3c35ab0595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title-text</value>
+      <webElementGuid>e59357fb-f5fc-47f6-b367-f55b42899c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Coastal Ecology</value>
+      <webElementGuid>ad6089a7-049c-4874-ac1d-462ee2834b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid-items&quot;)/div[@class=&quot;col-12 col-sm-6 col-xl-3&quot;]/div[@id=&quot;sc-c0ibFeUeng&quot;]/div[@class=&quot;cursor-pointer card-body d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;overflow-hidden w-100&quot;]/a[@class=&quot;card-link&quot;]/h5[@class=&quot;card-title d-inline-flex justify-content-start w-100&quot;]/div[@class=&quot;card-title-text&quot;]</value>
+      <webElementGuid>1f84bd90-9d34-4d64-b335-692784e977eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sc-c0ibFeUeng']/div[2]/div/a/h5/div</value>
+      <webElementGuid>de3c7df0-15f7-41ab-bf52-db0f61e3f8dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::div[3]</value>
+      <webElementGuid>22654aea-65c7-4241-a0be-638cbcef8dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Coastal Ecology']/parent::*</value>
+      <webElementGuid>0100e3cc-76f8-4e4e-a906-7500d822c90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5/div</value>
+      <webElementGuid>37f23f7d-db88-4480-aaa2-7b5573968c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Coastal Ecology' or . = 'Coastal Ecology')]</value>
+      <webElementGuid>d2f2e57a-6338-422b-a881-3884b0a8f392</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

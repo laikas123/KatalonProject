@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log In</name>
+   <name>button_Continue</name>
    <tag></tag>
-   <elementGuidId>66a64b00-e8f7-4eff-beeb-20393d3c25d3</elementGuidId>
+   <elementGuidId>47b0626f-1eb6-4173-8863-a06625a83ae5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='password']/button</value>
+         <value>//form[@id='login']/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1e5776a3-92d0-467f-8af5-f5ecc9c24b60</webElementGuid>
+      <webElementGuid>82b5188a-2b5d-4da6-8394-530e86f276ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>g-recaptcha btn btn-primary mt-4 w-100</value>
-      <webElementGuid>cea3d3df-d7bf-486b-9a35-0efc394a5369</webElementGuid>
+      <webElementGuid>795c5f59-ad93-4d4c-a433-952ee65b0dd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>ac253ac9-c851-432b-ade6-f47cc70c8c89</webElementGuid>
+      <webElementGuid>40ea0965-faad-4a32-b75b-c7d30b443166</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-callback</name>
       <type>Main</type>
-      <value>onSubmitpassword</value>
-      <webElementGuid>33bdeab0-3700-4305-918f-f588316c2964</webElementGuid>
+      <value>onSubmitlogin</value>
+      <webElementGuid>d0be3f91-9acd-4f95-89ab-4f83159dfc66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,55 +54,55 @@
       <name>data-sitekey</name>
       <type>Main</type>
       <value>6Leg-zIbAAAAAJ3RDyp9ZW5JCjU1GkRWD9x4mzxW</value>
-      <webElementGuid>79f6c7e2-0689-46ea-9f66-00b5077b0cc5</webElementGuid>
+      <webElementGuid>2de11061-b972-4cc1-a205-92d5557455b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log In</value>
-      <webElementGuid>4281a389-2738-488d-967e-d6b26c2631c8</webElementGuid>
+      <value>Continue</value>
+      <webElementGuid>d7be52a5-e47f-4d51-a801-a1dd25f2aec3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;d-flex vh-100 overflow-hidden p-0 vw-100 login-container&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-7 col-xl-6 h-100 p-0 pb-4 m-0 overflow-auto right-panel&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center h-100 right-panel-content&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center w-75&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center pb-4 w-100&quot;]/form[@id=&quot;password&quot;]/button[@class=&quot;g-recaptcha btn btn-primary mt-4 w-100&quot;]</value>
-      <webElementGuid>120dd71d-6aee-463c-a7b4-6ac18caf60da</webElementGuid>
+      <value>id(&quot;login&quot;)/button[@class=&quot;g-recaptcha btn btn-primary mt-4 w-100&quot;]</value>
+      <webElementGuid>9fb2eff1-0f13-4620-9a2d-9c2cee807ac1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='password']/button</value>
-      <webElementGuid>25fdcc9d-ced3-49d4-868f-5fc962665a33</webElementGuid>
+      <value>//form[@id='login']/button</value>
+      <webElementGuid>9c61df30-6b6a-4001-beea-7749962c3f6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>c4c63e1f-57c8-421d-8ba5-0375946c37f2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
+      <webElementGuid>ac940997-0a4c-4d41-9222-bc673b444045</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change'])[1]/following::button[1]</value>
-      <webElementGuid>9af4f8ba-27da-495a-a08e-486a4530d746</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome Back!'])[2]/following::button[1]</value>
+      <webElementGuid>1033b0c0-3f59-403a-afc1-e5dcd1a0570f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Having trouble logging in?'])[1]/preceding::button[1]</value>
-      <webElementGuid>69cf45ce-9bc3-4b75-95e3-27217fd42b46</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/preceding::button[1]</value>
+      <webElementGuid>0ee87d36-951e-428c-9a64-a975412d42af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,14 +110,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>a388f11e-1d50-4968-aa93-78642b0a873d</webElementGuid>
+      <webElementGuid>5a53f7f4-68ab-40cf-9438-391fec258c21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Log In' or . = 'Log In')]</value>
-      <webElementGuid>7e4d4554-0ec4-43fb-992b-755aa2d0e741</webElementGuid>
+      <value>//button[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>4a104dc5-a6ec-477e-bdf2-c9442f0484d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

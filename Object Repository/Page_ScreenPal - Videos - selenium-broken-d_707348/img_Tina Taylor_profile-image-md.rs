@@ -6,12 +6,12 @@
    <elementGuidId>5f3fc5bd-9036-45d4-910a-8ca2afce72d1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='userDropdownMenuLink']/div/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img.profile-image-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='userDropdownMenuLink']/div/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>956f69f6-e395-46be-ad43-64efc1cf1667</webElementGuid>
+      <webElementGuid>1a3aa6ab-cc33-4051-94e3-14175d342a83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>profile-image-md</value>
-      <webElementGuid>0fe8e621-0fe5-4927-9f90-6d5a42297b45</webElementGuid>
+      <webElementGuid>0dbb15d8-37b6-4200-a37b-4e82f894f36a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://d1ka0itfguscri.cloudfront.net/user_profiles/profile_eaf4e830e389bb3214b621d9973ff32a.jpeg</value>
-      <webElementGuid>6be1f919-654d-49f6-8846-8fbe88d2d96d</webElementGuid>
+      <webElementGuid>5101bfc5-32a6-4ff7-83e5-b4ed80c18e02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>width</name>
       <type>Main</type>
       <value>44</value>
-      <webElementGuid>87514283-00ef-44dd-a664-52fa05288f8b</webElementGuid>
+      <webElementGuid>899dbbd2-96e9-442a-9c6e-08805f26438d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>height</name>
       <type>Main</type>
       <value>44</value>
-      <webElementGuid>82add4c4-ccf9-406f-8166-5dc6106baac6</webElementGuid>
+      <webElementGuid>70c3fbff-2f84-45f6-a785-f5eefed02a07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;userDropdownMenuLink&quot;)/div[@class=&quot;profile-image-md&quot;]/img[@class=&quot;profile-image-md&quot;]</value>
-      <webElementGuid>5fd11ba4-bc1e-4b6b-8899-ede725cc0667</webElementGuid>
+      <webElementGuid>9052fd6d-3220-4fcb-a853-60951ba10f9a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='userDropdownMenuLink']/div/img</value>
-      <webElementGuid>4f7726c9-fccb-4882-a303-51d79a2160c4</webElementGuid>
+      <webElementGuid>12f739ee-a7e3-4a44-b99d-f9a6bd5b5720</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://d1ka0itfguscri.cloudfront.net/user_profiles/profile_eaf4e830e389bb3214b621d9973ff32a.jpeg')]</value>
-      <webElementGuid>3fb78118-3b63-4d6c-ab7a-7801e9d3cd90</webElementGuid>
+      <webElementGuid>ddc314f8-90c3-4f49-8999-20ac07077c4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[4]/div/img</value>
-      <webElementGuid>aa125092-fe41-40f6-a93e-74582fdc76bc</webElementGuid>
+      <webElementGuid>98bd82d5-8c1a-4efc-80dc-ed18283ed96d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://d1ka0itfguscri.cloudfront.net/user_profiles/profile_eaf4e830e389bb3214b621d9973ff32a.jpeg']</value>
-      <webElementGuid>6c66e437-b0fe-4175-897b-f9fbf5bf1ddb</webElementGuid>
+      <webElementGuid>3eb499db-d804-4b3b-b982-02ddb20976d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
