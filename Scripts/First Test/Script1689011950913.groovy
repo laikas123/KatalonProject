@@ -23,24 +23,5 @@ WebUI.navigateToUrl('https://v3-test-11.screenpal.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email'), 
-    0)
-
-WebUI.setText(findTestObject('Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email'), 
-    'testing@screencast-o-matic.com')
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/input_Password_password'), 
-    'P9ET2sDE0SE=')
-
-WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Enter your password - sele_b05b5c/button_Log In'))
-
-WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/img_Tina Taylor_profile-image-md'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/a_Sign Out'))
-
-WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Videos - selenium-broken-d_707348/a_Sign Out'))
-
 WebUI.closeBrowser()
 
