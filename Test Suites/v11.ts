@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>v11-Branch</name>
+   <name>v11</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>445c5d16-492d-4931-925b-dab0b1e419d6</testSuiteGuid>
+   <testSuiteGuid>4364f613-14f4-4572-bdfe-ba72af09c006</testSuiteGuid>
    <testCaseLink>
-      <guid>598e9d66-7d61-46ae-af74-0c059bfa1bea</guid>
+      <guid>ba1b5f15-bef3-4f3d-87e9-9752bf8ab899</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Test-Div</testCaseId>
