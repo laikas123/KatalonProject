@@ -41,6 +41,8 @@ WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Enter your passwo
 
 WebUI.click(findTestObject('Object Repository/Page_ScreenPal - Videos - bugfix-13567-init_a767a3/div_Coastal Ecology'))
 
+WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_ScreenPal - Coastal Ecology - bugfix-1_5d8a14/textarea_Description_description'), 
     0)
 
