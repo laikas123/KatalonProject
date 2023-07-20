@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
+
 WebUI.navigateToUrl('https://v3-test-11.screenpal.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In'))
