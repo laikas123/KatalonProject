@@ -6,12 +6,12 @@
    <elementGuidId>59a2cd81-e4e4-482c-b3e7-158bf880492f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.card-title-text</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='sc-c0ibFeUeng']/div[2]/div/a/h5/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-title-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f9a424c7-f92f-47f2-8549-93cad99db5fb</webElementGuid>
+      <webElementGuid>ed69db86-d7af-4522-992f-e19bdc01d864</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-title-text</value>
-      <webElementGuid>ab53cfaf-03fc-44f7-b691-4ef7d3148c6c</webElementGuid>
+      <webElementGuid>863c1b35-bde4-434a-868f-7195237a55a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Coastal Ecology</value>
-      <webElementGuid>4f232fe6-942b-44aa-83d1-3c97573fc233</webElementGuid>
+      <webElementGuid>d1767725-2eac-4a64-b500-0b58b8b467ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-items&quot;)/div[@class=&quot;col-12 col-sm-6 col-xl-3&quot;]/div[@id=&quot;sc-c0ibFeUeng&quot;]/div[@class=&quot;cursor-pointer card-body d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;overflow-hidden w-100&quot;]/a[@class=&quot;card-link&quot;]/h5[@class=&quot;card-title d-inline-flex justify-content-start w-100&quot;]/div[@class=&quot;card-title-text&quot;]</value>
-      <webElementGuid>175f0829-e2e2-4328-a8ce-8b47e05a4bc1</webElementGuid>
+      <webElementGuid>5598b747-e6ad-4140-9273-a4bf75ac4e05</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sc-c0ibFeUeng']/div[2]/div/a/h5/div</value>
-      <webElementGuid>5cd0d121-9a8f-4cda-bc70-ed5cb97ecedf</webElementGuid>
+      <webElementGuid>9f27ae2b-2a44-43fc-9423-cc46727762d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::div[3]</value>
-      <webElementGuid>22516218-e2d6-465d-b10a-81fdd6a371f3</webElementGuid>
+      <webElementGuid>d8540506-4c74-431a-a638-f70742d6e3ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Coastal Ecology']/parent::*</value>
-      <webElementGuid>4af17c08-4ca7-4660-b755-e7df4d707555</webElementGuid>
+      <webElementGuid>b5063b97-da31-4f76-94cf-02bb575f66fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h5/div</value>
-      <webElementGuid>56bbb1af-b724-4fd1-9bd7-27cccc1f9595</webElementGuid>
+      <webElementGuid>f81f3cf5-b725-4d97-b169-8cbab4d16dcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Coastal Ecology' or . = 'Coastal Ecology')]</value>
-      <webElementGuid>bb18048b-9161-4640-b48c-f4777c46b2d4</webElementGuid>
+      <webElementGuid>26d4f0d3-1b1e-40f6-841a-d9a6aa3420e3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

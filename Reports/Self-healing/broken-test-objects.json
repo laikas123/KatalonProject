@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In",
+      "brokenLocator": "//div[@id\u003d\u0027pagewrap\u0027]/div[2]/div/div/div/div/div[2]/div/ul/li/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Log In\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In_neighbor.png"
+    }
+  ]
 }
