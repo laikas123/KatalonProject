@@ -29,6 +29,8 @@ WebUI.click(findTestObject('Object Repository/Page_ScreenPal (Formerly Screencas
 
 WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
+WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email'))
 
 WebUI.setText(findTestObject('Object Repository/Page_ScreenPal - Welcome Back - selenium-br_82accc/input_Email_email'), 
