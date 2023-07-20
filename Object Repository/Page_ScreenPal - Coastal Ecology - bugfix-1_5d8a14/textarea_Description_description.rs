@@ -6,12 +6,12 @@
    <elementGuidId>ae3fa960-398e-4564-aac7-6608dc15fba8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#description</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//textarea[@id='description']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#description</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>9dde8d0b-f260-473f-af16-20faacf677d3</webElementGuid>
+      <webElementGuid>7b85015c-a4d4-4e5f-a49c-94a707829a50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control description </value>
-      <webElementGuid>ab1f77a5-0c13-4868-bf21-215f1afef8e4</webElementGuid>
+      <webElementGuid>66b43c5d-4de4-4ee6-b1be-ff09451cd327</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>description</value>
-      <webElementGuid>d1e87235-0b0b-408d-89e1-ab25deb47ace</webElementGuid>
+      <webElementGuid>7896d4fa-d9d5-4898-b906-93b94397be24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>3bfcbbd2-d9c4-4e28-91de-71fefabc7f51</webElementGuid>
+      <webElementGuid>66b6dfb6-7aa0-4be3-b4ba-41505dc491cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>description</value>
-      <webElementGuid>e5f583f4-a2ec-4f07-ad3a-19e9efcc1815</webElementGuid>
+      <webElementGuid>e767951e-f5c8-4279-adbd-2455b20f07a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;description&quot;)</value>
-      <webElementGuid>b8d8db00-f5c5-4c0c-b87a-cc67e06e92cf</webElementGuid>
+      <webElementGuid>073f6a7b-fa10-43ac-8d80-4a75536016f6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='description']</value>
-      <webElementGuid>257aee41-4931-42a8-be67-b99948b47b2c</webElementGuid>
+      <webElementGuid>cc788332-6c17-46ba-a2a0-b2bb7ee83001</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='editScreencastForm']/div[3]/textarea</value>
-      <webElementGuid>f3c38227-e10b-46bb-9264-9ab342a2b0e1</webElementGuid>
+      <webElementGuid>91bfce85-5a5d-4e04-b6a0-bfc77b2a38b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>79f1f280-c361-4456-9e1e-d916567323c7</webElementGuid>
+      <webElementGuid>4a3a854a-9957-4551-9244-331fddb4d86b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'description' and @name = 'description']</value>
-      <webElementGuid>b608a16c-3e36-4ed8-81f5-af2a201e734b</webElementGuid>
+      <webElementGuid>d5de65e2-7e73-417c-ad0e-65d8e2d0f1c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
