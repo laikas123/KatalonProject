@@ -46,8 +46,7 @@ WebUI.waitForPageLoad(8, FailureHandling.STOP_ON_FAILURE)
 WebUI.verifyElementClickable(findTestObject('Page_ScreenPal - Coastal Ecology - bugfix-1_5d8a14/textarea_Description_description'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Page_ScreenPal - Coastal Ecology - bugfix-1_5d8a14/textarea_Description_description'), 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Page_ScreenPal (Formerly Screencast-O-Matic_a228d3/a_Log In'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()
 
