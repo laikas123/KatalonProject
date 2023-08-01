@@ -17,3 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://v3-test-11.screenpal.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_Plans - Screen Recorder  Video Editor _75d6a2/span_Buy Now'))
+
